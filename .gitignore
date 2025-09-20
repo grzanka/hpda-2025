@@ -209,3 +209,4 @@ some.csv
 big_array_compressed.npz
 big_array.npz
 meteo/*
+dask-expr.svg
