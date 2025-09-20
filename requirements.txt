@@ -4,3 +4,4 @@ matplotlib
 dask
 requests
 pyarrow
+tables
