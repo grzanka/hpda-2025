@@ -1,7 +1,11 @@
+requests
+matplotlib
 numpy
 pandas
-matplotlib
-dask
-requests
 pyarrow
 tables
+dask[array]
+dask[dataframe]
+dask[diagnostics]
+dask[distributed]
+graphviz
