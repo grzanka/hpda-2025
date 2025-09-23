@@ -1,3 +1,11 @@
+requests
+matplotlib
 numpy
 pandas
-matplotlib
+pyarrow
+tables
+dask[array]
+dask[dataframe]
+dask[diagnostics]
+dask[distributed]
+graphviz
